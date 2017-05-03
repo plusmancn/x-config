@@ -31,3 +31,6 @@ server {
     }
 }
 ```
+
+## 403 
+请检查 `nginx user`
