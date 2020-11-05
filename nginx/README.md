@@ -28,6 +28,8 @@ server {
 
     location / {
         root /home/ubuntu/tool/swagger-ui/dist;
+        # 开启目录枚举
+        autoindex on;
     }
 }
 ```
